@@ -3,7 +3,9 @@
 ## 0.-Introducción
 
 [¿Qué es Rocky Linux?](modulo0/punto1.md)
+
 [Última versión](modulo0/punto2.md)
+
 [¿En qué versión está basada?](modulo0/punto3.md)
 
 ## 1.-Paquetes rpm
