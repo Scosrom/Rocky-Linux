@@ -15,11 +15,11 @@
 
 [¿Qué son los paquetes rpm?](modulo1/punto1.md)
 
-## 2.- Repositorios Rocky Linux
+## 2.-Repositorios Rocky Linux
 
 [¿Dónde se encuentran los repositorios?](modulo2/punto1.md)
 
-## 3.- Operaciones Básicas
+## 3.-Operaciones Básicas
 
 ### Referencias
 
