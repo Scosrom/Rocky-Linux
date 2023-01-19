@@ -1,4 +1,7 @@
+
 # Rocky-Linux
+
+![rocky-linux](https://user-images.githubusercontent.com/114906778/213404078-efd03f9e-85d4-4142-8ef0-ed2e22c9e4f1.png)
 
 ## 0.-Introducción
 
