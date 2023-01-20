@@ -23,6 +23,11 @@
 
 ### Referencias
 
+- [Rocky-Linux](https://rockylinux.org)
+- [Linux](https://www.linux.org)
+- [Muylinux](https://www.muylinux.com)
+
+
 ### Autores
 
 - Sandra Costales Romero
