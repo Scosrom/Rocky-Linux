@@ -25,4 +25,15 @@
 
 ### Autores
 
+- Sandra Costales Romero
+
+  [Github](https://github.com/Scosrom)
+  
+- Jose María Campos Chacón
+
+  [Github](https://github.com/camposchaconjosemaria)
+
 ### Licencia
+
+![Licencia](https://user-images.githubusercontent.com/114906778/213643977-69447a63-c6d6-438b-b340-5fd3479323ac.PNG)
+
