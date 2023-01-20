@@ -35,5 +35,7 @@
 
 ### Licencia
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>.
+
 ![Licencia](https://user-images.githubusercontent.com/114906778/213643977-69447a63-c6d6-438b-b340-5fd3479323ac.PNG)
 
