@@ -5,25 +5,25 @@
 
 ## 0.-Introducción
 
-[¿Qué es Rocky Linux?](modulo0/punto1.md)
+[0.1-¿Qué es Rocky Linux?](modulo0/punto1.md)
 
-[Última versión](modulo0/punto2.md)
+[0.2-Última versión](modulo0/punto2.md)
 
-[¿En qué versión está basada?](modulo0/punto3.md)
+[0.3-¿En qué versión está basada?](modulo0/punto3.md)
 
 ## 1.-Paquetes rpm
 
-[¿Qué son los paquetes rpm?](modulo1/punto1.md)
+[1.1-¿Qué son los paquetes rpm?](modulo1/punto1.md)
 
 ## 2.-Repositorios Rocky Linux
 
-[¿Dónde se encuentran los repositorios?](modulo2/punto1.md)
+[2.1-¿Dónde se encuentran los repositorios?](modulo2/punto1.md)
 
 ## 3.-Operaciones Básicas
 
-[Tabla de comandos](modulo3/punto1.md)
+[3.1-Tabla de comandos](modulo3/punto1.md)
 
-[Video Tutorial Comandos]()
+[3.2-Video Tutorial Comandos]()
 
 ### Referencias
 
