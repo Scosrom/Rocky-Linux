@@ -21,6 +21,11 @@
 
 ## 3.-Operaciones Básicas
 
+|  Descripción  |    Comando    |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ### Referencias
 
 - [Rocky-Linux](https://rockylinux.org)
