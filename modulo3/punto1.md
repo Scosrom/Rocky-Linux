@@ -1,5 +1,4 @@
 # Tabla de Comandos
-## Rocky Linux
 
 
 |  Descripción  |    Comando    |
