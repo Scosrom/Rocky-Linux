@@ -21,10 +21,8 @@
 
 ## 3.-Operaciones Básicas
 
-|  Descripción  |    Comando    |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+[Tabla de comandos](modulo3/punto1.md)
+[Video Tutorial Comandos]()
 
 ### Referencias
 
