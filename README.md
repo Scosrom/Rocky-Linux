@@ -23,7 +23,7 @@
 
 [3.1-Tabla de comandos](modulo3/punto1.md)
 
-[3.2-Video Tutorial Comandos]()
+[3.2-Video Tutorial Comandos](https://www.youtube.com/watch?v=t9Ex_5ipZHg)
 
 ### Referencias
 
